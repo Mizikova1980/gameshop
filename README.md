@@ -5,3 +5,4 @@
 - Laravel
 - MySql
 - HTML, SCSS
+- SwiftMailer
